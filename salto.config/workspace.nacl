@@ -1,0 +1,5 @@
+workspace {
+  uid = "f752bf2c-9808-48f0-bf33-0aaef3385be9"
+  name = "HS-Configuration"
+  staleStateThresholdMinutes = undefined
+}
